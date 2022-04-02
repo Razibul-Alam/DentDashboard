@@ -69,7 +69,7 @@ const Dashboard = () => {
               <CDBSidebarMenuItem icon="calendar" textFontSize="14px">
                 Calendar
               </CDBSidebarMenuItem>
-              <CDBSidebarMenuItem icon="list" textFontSize="14px">
+              <CDBSidebarMenuItem className='text-primary' icon="list" textFontSize="14px">
                 Patient List
               </CDBSidebarMenuItem>
               <CDBSidebarMenuItem icon="envelope" textFontSize="14px">
