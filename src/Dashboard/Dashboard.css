@@ -1,0 +1,18 @@
+.sidebar-logo {
+  width: 25%;
+}
+
+.icon {
+  font-size: 25px !important;
+}
+
+.search-bar {
+  border-radius: 15px;
+}
+
+.v-bar {
+  border-left: 2px solid green;
+  height: 60px;
+  top: 0;
+  left: 50%;
+}
